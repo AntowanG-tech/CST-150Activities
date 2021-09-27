@@ -1,0 +1,10 @@
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\bin\Debug\CST-150Activity2.exe.config
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\bin\Debug\CST-150Activity2.exe
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\bin\Debug\CST-150Activity2.pdb
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\obj\Debug\CST-150Activity2.csproj.AssemblyReference.cache
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\obj\Debug\CST_150Activity2.Form1.resources
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\obj\Debug\CST_150Activity2.Properties.Resources.resources
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\obj\Debug\CST-150Activity2.csproj.GenerateResource.cache
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\obj\Debug\CST-150Activity2.csproj.CoreCompileInputs.cache
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\obj\Debug\CST-150Activity2.exe
+C:\Users\hoodi\source\repos\CST-150Activity2\CST-150Activity2\obj\Debug\CST-150Activity2.pdb
