@@ -1,0 +1,26 @@
+Grand
+Canyon
+University
+Computer
+Programming
+Student
+Antowan
+Graham
+
+Lowercase Output: 
+grand
+canyon
+university
+computer
+programming
+student
+antowan
+graham
+
+
+First Word: Antowan
+Last Word: University
+
+Longest Word: Programming
+
+Most Vowels: Computer
