@@ -1,0 +1,10 @@
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\bin\Debug\CST-150Activity8.exe.config
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\bin\Debug\CST-150Activity8.exe
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\bin\Debug\CST-150Activity8.pdb
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\obj\Debug\CST-150Activity8.csproj.AssemblyReference.cache
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\obj\Debug\CST_150Activity8.Form1.resources
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\obj\Debug\CST_150Activity8.Properties.Resources.resources
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\obj\Debug\CST-150Activity8.csproj.GenerateResource.cache
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\obj\Debug\CST-150Activity8.csproj.CoreCompileInputs.cache
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\obj\Debug\CST-150Activity8.exe
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity8\CST-150Activity8\obj\Debug\CST-150Activity8.pdb
