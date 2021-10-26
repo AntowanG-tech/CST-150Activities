@@ -1,0 +1,7 @@
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity10\CST-150Activity10\bin\Debug\CST-150Activity10.exe.config
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity10\CST-150Activity10\bin\Debug\CST-150Activity10.exe
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity10\CST-150Activity10\bin\Debug\CST-150Activity10.pdb
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity10\CST-150Activity10\obj\Debug\CST-150Activity10.csproj.AssemblyReference.cache
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity10\CST-150Activity10\obj\Debug\CST-150Activity10.csproj.CoreCompileInputs.cache
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity10\CST-150Activity10\obj\Debug\CST-150Activity10.exe
+C:\Users\hoodi\source\repos\CST-150Activities\CST-150Activity10\CST-150Activity10\obj\Debug\CST-150Activity10.pdb
